@@ -1,0 +1,2 @@
+<h4> This project conosists of two vpc's, one consist of public subnet and other consist of private subnet present in same region. Now we need to connect to the linux instance present in the vpc2 using vpc peering.
+</h4>
